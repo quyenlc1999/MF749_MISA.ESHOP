@@ -31,3 +31,14 @@ C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MISA.Core\obj\Debug\
 C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MISA.Core\obj\Debug\netcoreapp3.1\MISA.Core.csproj.CoreCompileInputs.cache
 C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MISA.Core\obj\Debug\netcoreapp3.1\MISA.Core.dll
 C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MISA.Core\obj\Debug\netcoreapp3.1\MISA.Core.pdb
+C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MF749_MISA.ESHOP\MISA.Core\bin\Debug\netcoreapp3.1\MISA.Core.deps.json
+C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MF749_MISA.ESHOP\MISA.Core\bin\Debug\netcoreapp3.1\MISA.Core.dll
+C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MF749_MISA.ESHOP\MISA.Core\bin\Debug\netcoreapp3.1\MISA.Core.pdb
+C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MF749_MISA.ESHOP\MISA.Core\obj\Debug\netcoreapp3.1\MISA.Core.csprojAssemblyReference.cache
+C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MF749_MISA.ESHOP\MISA.Core\obj\Debug\netcoreapp3.1\MISA.Core.Properties.Resources.resources
+C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MF749_MISA.ESHOP\MISA.Core\obj\Debug\netcoreapp3.1\MISA.Core.csproj.GenerateResource.cache
+C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MF749_MISA.ESHOP\MISA.Core\obj\Debug\netcoreapp3.1\MISA.Core.AssemblyInfoInputs.cache
+C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MF749_MISA.ESHOP\MISA.Core\obj\Debug\netcoreapp3.1\MISA.Core.AssemblyInfo.cs
+C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MF749_MISA.ESHOP\MISA.Core\obj\Debug\netcoreapp3.1\MISA.Core.csproj.CoreCompileInputs.cache
+C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MF749_MISA.ESHOP\MISA.Core\obj\Debug\netcoreapp3.1\MISA.Core.dll
+C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MF749_MISA.ESHOP\MISA.Core\obj\Debug\netcoreapp3.1\MISA.Core.pdb

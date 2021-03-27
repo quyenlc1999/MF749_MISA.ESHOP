@@ -34,3 +34,15 @@ C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MISA.Infrastructure\
 C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csproj.CopyComplete
 C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.dll
 C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.pdb
+C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MF749_MISA.ESHOP\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Infrastructure.deps.json
+C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MF749_MISA.ESHOP\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Infrastructure.dll
+C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MF749_MISA.ESHOP\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Infrastructure.pdb
+C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MF749_MISA.ESHOP\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Core.dll
+C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MF749_MISA.ESHOP\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Core.pdb
+C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MF749_MISA.ESHOP\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csprojAssemblyReference.cache
+C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MF749_MISA.ESHOP\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MF749_MISA.ESHOP\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.AssemblyInfo.cs
+C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MF749_MISA.ESHOP\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MF749_MISA.ESHOP\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csproj.CopyComplete
+C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MF749_MISA.ESHOP\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.dll
+C:\Users\LCQUYEN\source\MF749_MISA.Eshop\MISA.Eshop.BackEnd\MF749_MISA.ESHOP\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.pdb

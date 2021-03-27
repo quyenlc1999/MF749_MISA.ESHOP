@@ -169,11 +169,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LCQUYEN\\source\\MF749_MISA.Eshop\\MISA.Eshop.BackEnd\\MISA.Infrastructure\\MISA.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\LCQUYEN\\source\\MF749_MISA.Eshop\\MISA.Eshop.BackEnd\\MF749_MISA.ESHOP\\MISA.Infrastructure\\MISA.Infrastructure.csproj",
       "projectName": "MISA.Infrastructure",
-      "projectPath": "C:\\Users\\LCQUYEN\\source\\MF749_MISA.Eshop\\MISA.Eshop.BackEnd\\MISA.Infrastructure\\MISA.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\LCQUYEN\\source\\MF749_MISA.Eshop\\MISA.Eshop.BackEnd\\MF749_MISA.ESHOP\\MISA.Infrastructure\\MISA.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\LCQUYEN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LCQUYEN\\source\\MF749_MISA.Eshop\\MISA.Eshop.BackEnd\\MISA.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\LCQUYEN\\source\\MF749_MISA.Eshop\\MISA.Eshop.BackEnd\\MF749_MISA.ESHOP\\MISA.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LCQUYEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -190,8 +190,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\LCQUYEN\\source\\MF749_MISA.Eshop\\MISA.Eshop.BackEnd\\MISA.Core\\MISA.Core.csproj": {
-              "projectPath": "C:\\Users\\LCQUYEN\\source\\MF749_MISA.Eshop\\MISA.Eshop.BackEnd\\MISA.Core\\MISA.Core.csproj"
+            "C:\\Users\\LCQUYEN\\source\\MF749_MISA.Eshop\\MISA.Eshop.BackEnd\\MF749_MISA.ESHOP\\MISA.Core\\MISA.Core.csproj": {
+              "projectPath": "C:\\Users\\LCQUYEN\\source\\MF749_MISA.Eshop\\MISA.Eshop.BackEnd\\MF749_MISA.ESHOP\\MISA.Core\\MISA.Core.csproj"
             }
           }
         }

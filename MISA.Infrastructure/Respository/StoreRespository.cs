@@ -63,16 +63,20 @@ namespace MISA.Infrastructure.Respository
             return res;
         }
 
-        public IEnumerable<Store> GetStoresFilters(string specs)
+        public IEnumerable<Store> GetStoresFilters(string filterStoreCode, string filterStoreName, string filterAddress, string filterPhoneNumber, int filterStatus)
         {
             string procName = $"Proc_GetStoresFilters";
             var parameters = new DynamicParameters();
-            string input = specs != null ? specs : string.Empty;
-            parameters.Add("@StoreCode", input, DbType.String);
-            parameters.Add("@StoreName", input, DbType.String);
-            parameters.Add("@Address", input, DbType.String);
-            parameters.Add("@PhoneNumber", input, DbType.String);
-            parameters.Add("@Status", input, DbType.String);
+            string inputStoreCode = filterStoreCode != null ? filterStoreCode : string.Empty;
+            string inputStoreName = filterStoreName != null ? filterStoreName : string.Empty;
+            string inputAddress = filterAddress != null ? filterAddress : string.Empty;
+            string inputPhoneNumber = filterPhoneNumber != null ? filterPhoneNumber : string.Empty;
+            int inputStatus = (filterStatus == 0 || filterStatus == 1) ? filterStatus : -1;
+            parameters.Add("@StoreCode", inputStoreCode, DbType.String);
+            parameters.Add("@StoreName", inputStoreName, DbType.String);
+            parameters.Add("@Address", inputAddress, DbType.String);
+            parameters.Add("@PhoneNumber", inputPhoneNumber, DbType.String);
+            parameters.Add("@Status", inputStatus, DbType.Int32);
             var res = _dbConnection.Query<Store>(procName, parameters, commandType: CommandType.StoredProcedure);
             return res;
         }

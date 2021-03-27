@@ -50,7 +50,7 @@ namespace MISA.Core.Interfaces
         /// </summary>
         /// <returns></returns>
         IEnumerable<Ward> GetWardWithDistrict(String id);
-        IEnumerable<Store> GetStoresFilters(string specs);
-       // IEnumerable<Store> GetStoresFilters(string filterStoreCode, string filterStoreName, string filterAddress, string filterPhoneNumber, int filterStatus);
+        //IEnumerable<Store> GetStoresFilters(string specs);
+        IEnumerable<Store> GetStoresFilters(string filterStoreCode, string filterStoreName, string filterAddress, string filterPhoneNumber, int filterStatus);
     }
 }

@@ -25,10 +25,10 @@ namespace MISA.Core.Services
             return _storeRespository.GetDistricts();
         }
 
-        /*public IEnumerable<Store> GetStoresFilters(string filterStoreCode, string filterStoreName, string filterAddress, string filterPhoneNumber, int filterStatus)
+        public IEnumerable<Store> GetStoresFilters(string filterStoreCode, string filterStoreName, string filterAddress, string filterPhoneNumber, int filterStatus)
         {
             return _storeRespository.GetStoresFilters(filterStoreCode, filterStoreName, filterAddress, filterPhoneNumber, filterStatus);
-        }*/
+        }
 
         public IEnumerable<District> GetDistrictWithProvince(string id)
         {
@@ -43,11 +43,6 @@ namespace MISA.Core.Services
         public IEnumerable<Province> GetProvinceWithCountry(string id)
         {
             return _storeRespository.GetProvinceWithCountry(id);
-        }
-
-        public IEnumerable<Store> GetStoresFilters(string specs)
-        {
-            return _storeRespository.GetStoresFilters(specs);
         }
 
         public IEnumerable<Ward> GetWards()

@@ -129,10 +129,10 @@ namespace MISA.Api.Api
                     }
                 }*/
 
-        [HttpGet("search")]
-        public IActionResult GetStoresFilters(string specs)
+        [HttpGet("searchs")]
+        public IActionResult GetStoresFilters(string filterStoreCode, string filterStoreName, string filterAddress, string filterPhoneNumber, int filterStatus)
         {
-            var res = _storeService.GetStoresFilters(specs);
+            var res = _storeService.GetStoresFilters(filterStoreCode, filterStoreName, filterAddress, filterPhoneNumber, filterStatus);
             if (res.Count() > 0)
             {
                 return StatusCode(int.Parse(MISAConst.Success), res);
